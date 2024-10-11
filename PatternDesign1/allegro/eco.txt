@@ -1,0 +1,109 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  PATTERNDESIGN01.brd                                                         |
+|                                                    Tue Oct 08 13:31:25 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins ADDED TO this new net
+                                 J2.1           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -12V         pins ADDED TO this new net
+                                 J2.3           U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AM_WAVE      pins ADDED TO this new net
+                                 R1.2           TP2.1          U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 J2.2           Q1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00290       pins ADDED TO this new net
+                                 J1.2           R2.1           R3.1           
+                                 TP1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00294       pins ADDED TO this new net
+                                 J1.1           R4.1           TP3.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00334       pins ADDED TO this new net
+                                 Q1.2           R3.2           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00338       pins ADDED TO this new net
+                                 R1.1           R2.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N000841      pins ADDED TO this new net
+                                 Q1.1           R4.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  PATTERNDESIGN01.brd                                                         |
+|                                                    Tue Oct 08 13:31:25 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CON2_JUMPER2_CON2
+ CON3_JUMPER3_CON3
+ LF356_DIP8_3_LF356
+ NPN BCE_TO92_NPN BCE
+ R_RES400_R
+ TEST POINT_JUMPER1_AM_WAVE
+ TEST POINT_JUMPER1_V_PULSE
+ TEST POINT_JUMPER1_V_SIN
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  PATTERNDESIGN01.brd                                                         |
+|                                                    Tue Oct 08 13:31:25 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1                  CON2_JUMPER2_CON2     
+ J2                  CON3_JUMPER3_CON3     
+ Q1                  NPN BCE_TO92_NPN BCE  
+ R1                  R_RES400_R            
+ R2                  R_RES400_R            
+ R3                  R_RES400_R            
+ R4                  R_RES400_R            
+ TP1                 TEST POINT_JUMPER1_V_SIN 
+ TP2                 TEST POINT_JUMPER1_AM_WAVE 
+ TP3                 TEST POINT_JUMPER1_V_PULSE 
+ U1                  LF356_DIP8_3_LF356    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  PATTERNDESIGN01.brd                                                         |
+|                                                    Tue Oct 08 13:31:25 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ TP1.1                          PRIM_FILE      .\pstchip.dat
+ TP2.1                          PRIM_FILE      .\pstchip.dat
+ TP3.1                          PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      24                                        |
+|       Comp definitions added:       8                                        |
+|       Components added      :      11                                        |
+|       Slot property added   :      11                                        |
+|                                                                              |
+|   Total ECO changes reported:      54                                        |
+|------------------------------------------------------------------------------|

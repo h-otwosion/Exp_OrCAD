@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PATTERNDESIGN01.brd                           )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Oct 08 14:46:36 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / LF356_DIP8_3_LF356 / DIP8_3 at (1.778 58.890)
+         Placed symbol:  J2 / CON3_JUMPER3_CON3 / JUMPER3 at (12.192 51.270)
+         Placed symbol:  Q1 / NPN BCE_TO92_NPN BCE / TO92 at (20.292 52.007)
+         Placed symbol:  R3 / R_RES400_R / RES400 at (26.436 51.181)
+         Placed symbol:  R2 / R_RES400_R / RES400 at (29.814 51.181)
+         Placed symbol:  R1 / R_RES400_R / RES400 at (33.192 51.181)
+         Placed symbol:  R4 / R_RES400_R / RES400 at (36.570 51.181)
+         Placed symbol:  J1 / CON2_JUMPER2_CON2 / JUMPER2 at (39.364 51.270)
+         Placed symbol:  TP2 / TEST POINT_JUMPER1_AM_WAVE / JUMPER1 at (45.282 51.270)
+         Placed symbol:  TP3 / TEST POINT_JUMPER1_V_PULSE / JUMPER1 at (2.362 64.046)
+         Placed symbol:  TP1 / TEST POINT_JUMPER1_V_SIN / JUMPER1 at (5.740 64.046)
+
+
+Placed 11 of 11 applicable (11 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,14 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Oct 08 16:37:12 2024
+\t (00:00:00)         Host=DESKTOP-LETI63K User=IDL-05 Pid=252 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession IDL-05 -file ./#Taaaaak15444.tmp -pname PAD65CIR42D-1 -data C:/Users/IDL-05/AppData/Local/Temp/#Taaaaam15444.tmp
+\t (00:00:00) 
+\d (00:00:27) QtSignal GuidedDesignLayersTab PadShape CurrentIndexChanged Square
+\d (00:00:27) QtSignal GuidedDesignLayersTab PadShape activated Square
+\d (00:00:50) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777251 134217728 false +
+\d (00:00:50) QtSignal 1
+\d (00:01:02) QtSignal GuidedDesignLayersTab PadShape CurrentIndexChanged Circle
+\d (00:01:02) QtSignal GuidedDesignLayersTab PadShape activated Circle
+\d (00:01:03) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:01:16) QtFillin No
+\t (00:01:16)     Journal end - Tue Oct 08 16:38:29 2024
